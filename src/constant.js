@@ -1,0 +1,1 @@
+export const baseurl = "http://localhost/blackcoffer_assignment/blackcoffer_api/api/"
